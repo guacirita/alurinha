@@ -32,7 +32,6 @@ body {
 	text-decoration: none;
 	transition: .5s;
 	display: block;
-
 	border-bottom: 1px solid #9799A6;
 }
 
@@ -246,14 +245,14 @@ body {
 		margin-top: 0;
 		text-align: left;
 	}
-
-	.conteudoPrincipal-cursos-link:nth-child(3n) {
+/* 
+	/* .conteudoPrincipal-cursos-link:nth-child(3n) {
 		margin-right: 0;
 	}
 
 	.conteudoPrincipal-cursos-link:nth-child(3n+1) {
 		margin-left: 0;
-	}
+	} */ */
 
 }
 
